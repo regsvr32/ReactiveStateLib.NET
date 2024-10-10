@@ -3,6 +3,8 @@
 
 A lightweight .NET library for reactive state binding
 
+[NuGet](https://www.nuget.org/packages/ReactiveStateLib.NET)
+
 ## Introduction
 This library aims to achieve the following objectives:
 * Reactive state monitoring that automatically triggers corresponding listeners when data changes, such as updating the UI.

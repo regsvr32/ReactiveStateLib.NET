@@ -3,6 +3,8 @@
 
 提供轻量级响应式状态绑定的.NET库
 
+[NuGet](https://www.nuget.org/packages/ReactiveStateLib.NET)
+
 ## 简介
 这个库意图实现下列目的：
 * 响应式的状态监视，当数据有变动时自动触发对应的监听器，例如更新UI
