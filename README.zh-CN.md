@@ -1,4 +1,4 @@
-# ReactiveState
+# ReactiveStateLib.NET
 简体中文 | [English](README.md)
 
 提供轻量级响应式状态绑定的.NET库

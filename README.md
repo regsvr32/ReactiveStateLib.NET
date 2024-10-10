@@ -1,4 +1,4 @@
-# ReactiveState
+# ReactiveStateLib.NET
  English | [简体中文](README.zh-CN.md)
 
 A lightweight .NET library for reactive state binding
