@@ -50,3 +50,5 @@ example.Update((state) => state.Corge.Waldo = "wubba lubba dub-dub"); // nothing
 example.Update((state) => state.Corge.Graply = 42); // output: listener invoked. Waldo=wubba lubba dub-dub
 
 example.Update((state) => state.Corge.Waldo = "hakuna matata!"); // output: listener invoked. Waldo=hakuna matata!
+
+example.Update((state) => { }); // nothing output
