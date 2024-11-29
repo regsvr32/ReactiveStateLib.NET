@@ -7,6 +7,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>ReactiveStateLib.NET</PackageId>
     <Title>ReactiveStateLib.NET</Title>
+    <VersionPrefix>1.0.1</VersionPrefix>
     <Authors></Authors>
     <Description>A lightweight .NET library for reactive state binding</Description>
     <PackageProjectUrl>https://github.com/regsvr32/ReactiveStateLib.NET</PackageProjectUrl>
